@@ -1,7 +1,7 @@
-<div align="center">
+<p align="center">
 	<!-- <img alt="Banner" src="./assets/wakeup.gif" /> -->
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24EFF7&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=150&lines=declare+Variables+not+Wars;build+Packages+not+Walls;execute+Programs+not+People;throw+Exceptions+not+Stones;.+.+.+" alt="Hello Friend!!" />
-</div>
+</p>
 
 <h1 align="center">Hi, I'm Jay</h1>
 <img width="40%" align="right" src="./assets/code.webp" >
