@@ -1,7 +1,7 @@
 <!-- <div align="center"><img alt="Banner" src="./assets/wakeup.gif" /></div> -->
 <!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24EFF7&center=true&vCenter=true&multiline=true&repeat=false&width=980&height=150&lines=declare+Variables+not+Wars;build+Packages+not+Walls;execute+Programs+not+People;throw+Exceptions+not+Stones;.+.+.+" alt="Hello Friend!!" /> -->
 
-<h1 align="center"><a href="https:github.com/jay-neo">/jay-neo</a></h1>
+<h1 align="center"><a href="https://github.com/jay-neo">/jay-neo</a></h1>
 
 <div align="center">
 	<table width=100% align="center">
