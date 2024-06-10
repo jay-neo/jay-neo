@@ -24,7 +24,7 @@
 	    		<!-- <td align="center">Feb, 2024</td> -->
 	    	</tr>
 			<tr>
-	    		<td align="center"><a target="_blank" href="https://github.com/jay-neo/smart-agri">Terminal2Browser</a></td>
+	    		<td align="center"><a target="_blank" href="https://github.com/jay-neo/Terminal-2-Browser">Terminal2Browser</a></td>
 	    		<td align="center">Allows users to type a search query string in the terminal<br>Opens the search in a specified browser, search engine or website<br><b>pwsh</b> cli search capabilities with custom browser preferences</td>
 	    		<!-- <td align="center">Jan, 2024</td> -->
 	    	</tr>
@@ -69,6 +69,7 @@
 		    			<li><a href="https://github.com/jay-neo/OS" target="_blank">Operating System</a></li>
 		    			<li><a href="https://github.com/jay-neo/CN" target="_blank">Computer Networks</a></li>
 		    			<li><a href="https://github.com/jay-neo/NM" target="_blank">Numerical Methods</a></li>
+		    			<li><a href="https://github.com/jay-neo/IT-Workshop-AWS" target="_blank">IT-Workshop-AWS</a></li>
 		    			<li><a href="https://github.com/jay-neo/Python-I" target="_blank">Python I</a></li>
 		    			<li><a href="https://github.com/jay-neo/Python-II" target="_blank">Python II</a></li>
 		    		</ul>
@@ -91,16 +92,18 @@
 	</table>
 </div>
 
-<table>
-	<tr> 
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=jay-neo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hello Friend!" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-neo&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hello Friend!" />
-		</td>
-	</tr>
-</table>
+<div align="center">
+	<table width="100%">
+		<tr> 
+			<td>
+				<img src="https://github-readme-stats.vercel.app/api?username=jay-neo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hello Friend!" />
+			</td>
+			<td>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-neo&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hello Friend!" />
+			</td>
+		</tr>
+	</table>
+</div>
 
 <p align="center">
 	<img src="https://profile-counter.glitch.me/jay-neo/count.svg" />
